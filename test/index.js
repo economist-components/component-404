@@ -1,6 +1,6 @@
 import 'babel-polyfill';
-import NotFound from '..';
-import React from 'react/addons';
+import NotFound from '../src';
+import React from 'react';
 import chai from 'chai';
 chai.should();
 describe('NotFound', () => {
