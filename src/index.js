@@ -6,7 +6,7 @@ export default function NotFoundHandler() {
         <svg
           version="1.1"
           viewBox="0 0 1190 922"
-          enable-background="new 0 0 1190 922"
+          enableBackground="new 0 0 1190 922"
         >
           <g>
             <path
